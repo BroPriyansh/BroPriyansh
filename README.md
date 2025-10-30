@@ -80,7 +80,8 @@ A responsive **eCommerce web app** focused on beauty products.
 <div align="center">
   
 ![Priyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BroPriyansh&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=YourWakaTimeUsername&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BroPriyansh&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BroPriyansh&theme=tokyonight&hide_border=true)
 
